@@ -1,2 +1,0 @@
-# coding-projects
-The small coding projects playing with
